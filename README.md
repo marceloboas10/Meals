@@ -20,7 +20,7 @@
 <h2 align="center">Sobre 📖</h2>
    
 <p>
-   Esse projeto Meals foi desenvolvido para estudo de componentes do framework Flutter utilizando a linguagem Dart e o conceito de rotas nomeadas, passando os parâmetros por argumentos. <br>
+   Esse projeto Meals faz parte do estudo de componentes do framework Flutter utilizando a linguagem Dart e o conceito de rotas nomeadas, passando os parâmetros por argumentos. <br>
    O aplicativo Meals se trata de um app mobile feito em Flutter para visualizar refeições com a receita do prato, modo e tempo de preparo.<br>
    Conta com um menu dividido em categorias e contém estilizações personalizadas, além de uma tela onde fica as refeições que foram favoritadas pelo usuário.<br>
    As imagens das refeições utilizadas foram obtidas pela Internet para fins meramente ilustrativos.<br>
