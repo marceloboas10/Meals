@@ -1,9 +1,17 @@
+<p align="center">
+  <img src="https://img.shields.io/github/stars/marceloboas10/meals?label=stars&message=MIT&color=000000&labelColor=8257e5" alt="Stars">
+  <img src="https://img.shields.io/github/forks/marceloboas10/meals?label=forks&message=MIT&color=000000&labelColor=8257e5" alt="Forks">     
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=000000&labelColor=8257e5" alt="License">
+
+</p>
+
 <h2 align="center">Tópicos 📋</h2>
 
    <p>
    
    - [Sobre 📖](#sobre-)
-   - [Como Usar ](#como-usar-)
+   - [Layout 🎨](#layout-)
+   - [Como Usar 🤔](#como-usar-)
 
    </p>
 
@@ -14,7 +22,8 @@
 <p>
    Esse projeto Meals foi desenvolvido para estudo de componentes do framework Flutter utilizando a linguagem Dart. <br>
    O aplicativo Meals se trata de um app mobile feito em Flutter para visualizar refeições com a receita do prato, modo e tempo de preparo.<br>
-   Com um menu dividido em categorias e contendo estilizações personalizadas, foi utilizado imagens das refeições obtidas pela Internet, o usuário pode usar o opções de filtrar as refeições pelas categorias:.<br>
+   Com um menu dividido em categorias e contendo estilizações personalizadas e uma tela onde fica as refeições que foram favoritadas pelo usuário.
+   Foi utilizado imagens das refeições obtidas pela Internet e o usuário pode usar o opções de filtrar as refeições pelas seguintes categorias:<br>
    - Sem glúten<br>
    - Sem lactose<br>
    - Vegana<br>
@@ -25,10 +34,14 @@
 
 
 <h2 align="center">Layout 🎨</h2>
-
-   <p align="center">
-      <img alt="PayFlow" title="Meal" src=".github/capa.png" />
-   </p>
+<div align="center">
+<img src="https://github.com/marceloboas10/Meals/assets/67197423/f950b97c-9ec6-4e54-b6d3-ffaea3723350" width="250px" />
+<img src="https://github.com/marceloboas10/Meals/assets/67197423/7cde1d2c-b841-46f2-9d23-64d1b5287067" width="250px" />
+<img src="https://github.com/marceloboas10/Meals/assets/67197423/09a8214c-bee3-469a-b78e-2eb9e7a0f9c0" width="250px" />
+<img src="https://github.com/marceloboas10/Meals/assets/67197423/51a8818f-0628-43ad-be1e-cd72c6cc1383" width="250px" />
+<img src="https://github.com/marceloboas10/Meals/assets/67197423/2e2c48d9-e7fc-49e6-a5c7-7e42a458f63e" width="250px" />
+<img src="https://github.com/marceloboas10/Meals/assets/67197423/5c9e188e-f427-4156-8fd4-7678bf51393b" width="250px" />
+</div>
 
 ---
 
@@ -38,10 +51,9 @@
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/marceloboas10/despesa_semanal
-
+   $ git clone https://github.com/marceloboas10/despesa_semanal](https://github.com/marceloboas10/Meals
    - Entre no diretório:
-   $ cd despesa_semanal
+   $ cd meals
 
    - Instale as dependências:
    $ flutter pub get
