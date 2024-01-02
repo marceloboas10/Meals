@@ -47,7 +47,7 @@
 
 
 
-<h2 align="center">Como Usar</h2>
+<h2 align="center">Como Usar 🤔</h2>
 
    ```
    - Clone esse repositório:
